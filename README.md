@@ -11,6 +11,6 @@ Grab the api_token value of a user in the database to call the api. Add the foll
 - Authorization: Bearer {api_token}
 
 Available resources:
-GET: /articles
-POST: /article
-POST: /comment
+- GET: /articles
+- POST: /article
+- POST: /comment
